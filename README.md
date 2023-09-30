@@ -35,9 +35,12 @@ Pour les utilisateurs d'**Ubuntu**, vous pouvez [cliquer ici](https://www.micros
 ## Étape 4 : Initialisation et lancement de votre distribution Linux
 
 1. Ouvrez le sous-système Linux que vous avez installé. Pour y accéder depuis le Terminal ou Powershell :
-   - Tapez `bash` pour entrer dans le mode Linux. **OU**
+   - Tapez `bash` pour entrer dans le mode Linux.
+   
+     **OU**
+
    - Utilisez le nom de votre sous-système. Par exemple, pour Ubuntu, tapez `ubuntu`.
-2. Lors de la première exécution, vous serez invité à créer un utilisateur et à définir un mot de passe pour ce compte.
+3. Lors de la première exécution, vous serez invité à créer un utilisateur et à définir un mot de passe pour ce compte.
 
 🌟 **Astuce** : Vous pouvez accéder aux fichiers de votre système Windows depuis le terminal Linux en naviguant vers `/mnt/`, par exemple `/mnt/c/` pour accéder au disque C.
 
